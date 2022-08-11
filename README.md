@@ -1,2 +1,2 @@
 # Bilinear_sampling
-bilinear upsample / downsample by python () 
+bilinear upsample / downsample by python 
